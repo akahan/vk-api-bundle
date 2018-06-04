@@ -1,9 +1,9 @@
 {
-    "name": "mrsuh/vk-api",
+    "name": "akahan/vk-api-bundle",
     "type": "symfony-bundle",
     "description": "API for social network vkontakte",
     "keywords" : ["api", "vk", "vkontakte"],
-    "homepage": "https://github.com/mrsuh/vk-api",
+    "homepage": "https://github.com/akahan/vk-api-bundle",
     "license": "MIT",
     "authors" : [{
         "name" : "mrsuh",
